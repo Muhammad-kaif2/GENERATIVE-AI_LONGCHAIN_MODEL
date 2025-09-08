@@ -11,6 +11,3 @@ A professional repository for building and experimenting with generative AI mode
 - Modular architecture for experimentation and extension
 - Dependency management with `requirements.txt` for reproducibility
 
----
-
-## 📂 Project Structure
